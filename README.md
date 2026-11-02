@@ -107,11 +107,3 @@ Also used in university courses and small projects: C, Java, JavaScript, Swift, 
 
 [**kpi-labs**](https://github.com/NikitaSdk/kpi-labs) - all 34 university courses in one repository, grouped by skill: AI and ML, backend and databases, C++ and systems, embedded and IoT, Java, algorithms and security.
 
-## GitHub activity
-
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NikitaSdk&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaSdk&layout=compact&hide_border=true" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=NikitaSdk&hide_border=true" />
