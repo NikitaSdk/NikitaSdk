@@ -4,7 +4,7 @@
 
 ## About me
 
-Master's student in Computer Science at **Igor Sikorsky Kyiv Polytechnic Institute**.
+Master's student in Computer Science at **Igor Sikorsky Kyiv Polytechnic Institute**, **IASA**.
 I build Python applications with LLMs (RAG, MCP, multi-agent systems), backend services with FastAPI and Docker, and work with microcontrollers (ESP32, STM32).
 
 Kyiv, Ukraine | nikitasydko123@gmail.com | Ukrainian (native), English B2
