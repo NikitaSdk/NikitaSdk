@@ -1,4 +1,4 @@
-# Hi, I'm Nikita
+# Nikita
 
 ### Intern / Junior Software Engineer | Python | C++ | AI
 
